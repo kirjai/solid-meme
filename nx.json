@@ -25,6 +25,13 @@
     "ng-app-e2e": {
       "tags": [],
       "implicitDependencies": ["ng-app"]
+    },
+    "web-app": {
+      "tags": []
+    },
+    "web-app-e2e": {
+      "tags": [],
+      "implicitDependencies": ["web-app"]
     }
   }
 }
